@@ -1,5 +1,5 @@
 # Stylized-brush-python-p5
-A stylized brush application allowing brush stylization using [python p5](https://pypi.org/project/p5/) and [dreamstudio](https://beta.dreamstudio.ai/membership) stable diffusion (SD) api
+A stylized brush application allowing painting with brush stylization using [python p5](https://pypi.org/project/p5/) and [dreamstudio](https://beta.dreamstudio.ai/membership) stable diffusion (SD) api
 
 ## Demo:
 
